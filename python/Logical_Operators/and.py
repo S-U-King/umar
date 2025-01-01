@@ -1,0 +1,22 @@
+print(True and True and True)                
+print(True and False and True)             
+print(True and True and False)              
+print(False and False and False)         
+print(False and True and True)              
+print(False and False and True)           
+print(True and False and False)              
+print(False and True and False)             
+
+print=(True  and False)
+
+print(True and True and True and True and True and True and True and True)  
+print(True and True and True and True and True and True and True and False)
+print(True and True and True and True and True and True and False and False)
+print(True and True and True and True and True and False and False and False)
+print(True and True and True and True and False and False and False and False)
+print(True and True and True and False and False and False and False and False)
+print(True and True and False and False and False and False and False and False)
+print(True and False and False and False and False and False and False and False)
+print(False and False and  False and False and False and False and False and False)
+
+print=(True  and False)
